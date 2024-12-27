@@ -57,11 +57,13 @@ A simple To-Do application built with Spring Boot for the backend and MongoDB fo
 
 5. The backend will be available at http://localhost:8080
 
-###Steps to Set Up Frontend
+### Steps to Set Up Frontend
 
 1. Open the index.html file located in the frontend directory.
+
 2. Serve it using a simple HTTP server:
    ```bash
    npm install -g http-server
    http-server .
+
 3. Open the browser and go to http://127.0.0.1:3000.
