@@ -1,9 +1,5 @@
 # To-Do Application
 
-A simple To-Do application built with Spring Boot for the backend and MongoDB for data storage. The application provides basic CRUD (Create, Read, Delete) operations for managing tasks.
-
----
-
 ## Features
 
 - Create a new task.
