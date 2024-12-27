@@ -42,3 +42,16 @@ A simple To-Do application built with Spring Boot for the backend and MongoDB fo
    ```bash
    git clone https://github.com/ankithdadda/Quinbay_todo.git
    cd Quinbay_todo
+
+2. Navigate to the backend directory:
+   ```bash
+   cd demo
+
+3. Install dependencies:
+   ```bash
+   mvn clean install
+
+4. Run the application:
+   ```bash
+   mvn spring-boot:run
+The backend will be available at http://localhost:8080.
