@@ -1,6 +1,6 @@
 # To-Do Application
 
-A simple To-Do application built with Spring Boot for the backend and MongoDB for data storage. The application provides basic CRUD (Create, Read, Update, Delete) operations for managing tasks.
+A simple To-Do application built with Spring Boot for the backend and MongoDB for data storage. The application provides basic CRUD (Create, Read, Delete) operations for managing tasks.
 
 ---
 
@@ -40,5 +40,5 @@ A simple To-Do application built with Spring Boot for the backend and MongoDB fo
 ### Steps to Set Up Backend
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/your-repository.git
-   cd your-repository
+   git clone https://github.com/ankithdadda/Quinbay_todo.git
+   cd Quinbay_todo
